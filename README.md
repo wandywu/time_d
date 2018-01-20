@@ -1,4 +1,4 @@
 Die software IST eine unabhängige software für die Verwaltung, die theoretische grundlage ist der Lehrer - Alex Oriental 34 goldstücke - Zeit - Management - methode ".Auch Ich war diese methode jetzt helfen die effizienz und Die Zeit - management fähigkeiten sind eine sehr große steigen, und so Will eine entsprechende - Management - software, um mehr Freunde zur Verbesserung der energieeffizienz.
 Derzeit, die funktion der software ist nicht perfekt, und möglicherweise einige Fehler ändern müssen, wenn sie einen bug gefunden, kann eine e - mail an Mich, Oder Direkt in der github haar - pflaster.
 Die nächste Entwicklung, wird die ereignisse in der Vergangenheit zur Zeit, kreisdiagramm, Statistiken und Daten in verschiedenen formaten Export - funktionen.
-Wenn sie eine Meinung Oder empfehlung, kann per e - mail an Mich, meine e - mail - Adresse
+Wenn sie eine Meinung Oder empfehlung, kann per e - mail an Mich, meine e - mail - Adresse wandy004@email518.com
